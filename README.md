@@ -6,4 +6,4 @@ MIRA is the application used to administer content in the Tufts digital reposito
 Many of the functions provided by MIRA (and Hyrax) are designed to be easy to unnefit from additional documentation which can be found below.
 derstand directly via the user interface. 
 
-This is where Tisch is keeping the working Metadata Application Profile as we reconcileour interpretation of the elements with DCA.  See the [wiki page](https://github.com/Alexandermay/Tufts_Metadata_Profile/wiki)for a readable version.  
+This is where Tisch is keeping the working Metadata Application Profile as we reconcileour interpretation of the elements with DCA.  See the [wiki page](https://github.com/Alexandermay/Tufts_Metadata_Profile/wiki) for a readable version.  
